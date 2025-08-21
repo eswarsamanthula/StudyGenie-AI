@@ -4,6 +4,10 @@
 
 StudyGenie is an AI-powered study planning application that helps students organize their learning schedule effectively. The application uses Gemini AI to generate personalized study plans based on user input about their subjects, deadlines, and preferences.
 
+##  Live Demo  
+Check out the live version here: [StudyGenie-AI Live Demo](https://studygenie-ai.netlify.app/)
+
+
 ## How to Use This Code
 
 There are several ways to work with this application:
