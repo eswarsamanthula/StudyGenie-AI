@@ -68,6 +68,5 @@ This project is built with:
 - Deadline management
 - User-friendly interface
 
-## Deployment
-
-You can deploy this project to any hosting service that supports React applications, such as Vercel, Netlify, or GitHub Pages.
+###  Deployment  
+This app is deployed to **Netlify**. Every time you push to `main`, the production version updates automatically.
